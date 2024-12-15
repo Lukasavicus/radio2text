@@ -5,3 +5,5 @@ __pycache__/*
 .DS_Store
 .env
 90.OTHER/*
+1.DATA/0.steel/*
+1.DATA/1.bronze/*
