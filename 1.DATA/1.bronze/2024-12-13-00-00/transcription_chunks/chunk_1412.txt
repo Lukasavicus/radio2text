@@ -1,0 +1,1 @@
+quando aparelhos foram roubados em momentos em que não estiverem conectados à internet o recurso bloqueia automaticamente a tela do celular Android caso fique

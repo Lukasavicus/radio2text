@@ -1,0 +1,1 @@
+3 do iOS não permite mais que o bandido tenha acesso a uma senha numérica a partir de agora o uso de autenticação pelo Face ID
